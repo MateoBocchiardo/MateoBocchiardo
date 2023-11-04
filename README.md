@@ -1,5 +1,4 @@
-### Hi there :smile_cat: :smile_cat: :smile_cat:
-
+### Hi there :smile_cat: :smile_cat: :smile_cat: 🐈
 <!--
 **MateoBocchiardo/MateoBocchiardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
